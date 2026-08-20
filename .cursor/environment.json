@@ -1,0 +1,4 @@
+{
+  "note": "Cursor background-agent environment. Secrets (XAI_API_KEY, SLACK_WEBHOOK_URL) are set in the Cursor dashboard, NOT here.",
+  "install": "command -v jq >/dev/null && command -v curl >/dev/null && command -v git >/dev/null && echo tools-ok"
+}
