@@ -10,4 +10,4 @@ State the digest automation reads before each run and commits back after.
 ## Recent Digests
 | Date | Topic | Key topics |
 |------|-------|------------|
-| (seeded, first run will append) | | |
+| 2026-08-20 | (broad) | Binance Agent OS, Stripe OpenRouter, Clarity Act |
