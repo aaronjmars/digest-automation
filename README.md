@@ -33,3 +33,7 @@ against prior days with no database.
 - `memory/` - state the agent reads and commits back (dedup across runs).
 
 Ported from [aeonfun/aeon](https://github.com/aeonfun/aeon) `skills/digest/SKILL.md`.
+
+---
+
+Built by [Aaron Elijah Mars](https://aaronjmars.com), founder of Aeon and MiroShark · [@aaronjmars](https://github.com/aaronjmars)
